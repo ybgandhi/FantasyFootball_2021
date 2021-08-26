@@ -1,4 +1,4 @@
-## FantasyFootball_2021
+# Fantasy Football 2021
 To prepare for the 2021 Fantasy Football draft, research and rankings of NFL players and teams manipulated based on personal preference 
 
 
@@ -16,7 +16,7 @@ To prepare for the 2021 Fantasy Football draft, research and rankings of NFL pla
     * tight ends
     * wide receivers
 
-# Data Manipulation
+## Data Manipulation
 split raw file based on player positions
 *reorder data frame to show:*
     * rank
