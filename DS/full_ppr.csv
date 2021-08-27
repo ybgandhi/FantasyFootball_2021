@@ -1,0 +1,366 @@
+DF Rank,ADP Avg.,Name,Position,Bye Week,Consensus Points
+1.,1.1 S,ChristiaMcCaffrey,RB,13,377
+2.,1.2 S,DalviCook,RB,7,333
+3.,1.3 S,AlviKamara,RB,6,311
+4.,1.4 S,DerricHenry,RB,13,297
+5.,1.5 S,EzekieElliott,RB,7,284
+6.,1.6 S,TraviKelce,TE,12,299
+7.,1.7 S,DavantAdams,WR,13,345
+8.,1.8 S,JonathaTaylor,RB,14,279
+9.,1.9 S,SaquoBarkley,RB,10,280
+10,1.10 ,AustiEkeler,RB,7,283
+11,1.11 ,NicChubb,RB,13,266
+12,1.12 ,TyreeHill,WR,12,309
+13,2.1 S,AaroJones,RB,13,270
+14,2.2 S,StefoDiggs,WR,7,293
+15,2.3 S,NajeHarris,RB,7,259
+16,2.4 S,AntoniGibson,RB,9,256
+17,2.5 S,DeAndrHopkins,WR,12,298
+18,2.6 S,CalviRidley,WR,6,290
+19,2.7 S,JoMixon,RB,10,263
+20,2.8 S,D.KMetcalf,WR,9,281
+21,2.9 S,DarreWaller,TE,8,254
+22,2.10 ,ClydEdwards-Helaire,RB,12,242
+23,2.11 ,JustiJefferson,WR,7,269
+24,2.12 ,PatricMahomes,QB,12,458
+25,3.1 S,A.JBrown,WR,13,271
+26,3.2 S,J.KDobbins,RB,8,230
+27,3.3 S,KeenaAllen,WR,7,257
+28,3.4 S,GeorgKittle,TE,6,242
+29,3.5 S,DaviMontgomery,RB,10,234
+30,3.6 S,TerrMcLaurin,WR,9,258
+31,3.7 S,D'AndrSwift,RB,9,238
+32,3.8 S,CeeDeLamb,WR,7,240
+33,3.9 S,AlleRobinson,WR,10,257
+34,3.10 ,ChriCarson,RB,9,235
+35,3.11 ,JosAllen,QB,7,447
+36,3.12 ,JosJacobs,RB,8,220
+37,4.1 S,RoberWoods,WR,11,244
+38,4.2 S,MileSanders,RB,14,223
+39,4.3 S,MikEvans,WR,9,246
+40,4.4 S,AmarCooper,WR,7,247
+41,4.5 S,ChriGodwin,WR,9,242
+42,4.6 S,KyleMurray,QB,12,421
+43,4.7 S,JuliJones,WR,13,237
+44,4.8 S,CoopeKupp,WR,11,222
+45,4.9 S,DiontaJohnson,WR,7,233
+46,4.10 ,TyleLockett,WR,9,225
+47,4.11 ,KylPitts,TE,6,202
+48,4.12 ,AdaThielen,WR,7,224
+49,5.1 S,LamaJackson,QB,8,413
+50,5.2 S,JameRobinson,RB,7,237
+51,5.3 S,D.JMoore,WR,13,230
+52,5.4 S,MikDavis,RB,6,216
+53,5.5 S,KareeHunt,RB,13,180
+54,5.6 S,MyleGaskin,RB,14,185
+55,5.7 S,DarrelHenderson,RB,11,180
+56,5.8 S,JavontWilliams,RB,11,185
+57,5.9 S,MarAndrews,TE,8,205
+58,5.10 ,BrandoAiyuk,WR,6,206
+59,5.11 ,DaPrescott,QB,7,409
+60,5.12 ,T.JHockenson,TE,9,191
+61,6.1 S,TeHiggins,WR,10,207
+62,6.2 S,ChasEdmonds,RB,12,198
+63,6.3 S,MichaeThomas,WR,6,205
+64,6.4 S,AaroRodgers,QB,13,401
+65,6.5 S,Ja'MarChase,WR,10,195
+66,6.6 S,RusselWilson,QB,9,405
+67,6.7 S,KennGolladay,WR,10,208
+68,6.8 S,ChasClaypool,WR,7,197
+69,6.9 S,JustiHerbert,QB,7,401
+70,6.10 ,OdelBeckhaJr.,WR,13,204
+71,6.11 ,JuJSmith-Schuster,WR,7,215
+72,6.12 ,RaheeMostert,RB,6,174
+73,7.1 S,JerrJeudy,WR,11,211
+74,7.2 S,DamieHarris,RB,14,159
+75,7.3 S,CourtlanSutton,WR,11,199
+76,7.4 S,TreSermon,RB,6,152
+77,7.5 S,MelviGordon,RB,11,162
+78,7.6 S,ToBrady,QB,9,384
+79,7.7 S,RobbAnderson,WR,13,206
+80,7.8 S,MichaeCarter,RB,6,144
+81,7.9 S,DeVontSmith,WR,14,187
+82,7.10 ,LogaThomas,TE,9,157
+83,7.11 ,RonalJones,RB,9,137
+84,7.12 ,TyleBoyd,WR,10,200
+85,8.1 S,DeebSamuel,WR,6,195
+86,8.2 S,NoaFant,TE,11,174
+87,8.3 S,D.JChark,WR,7,204
+88,8.4 S,MattheStafford,QB,11,370
+89,8.5 S,LeonarFournette,RB,9,152
+90,8.6 S,DallaGoedert,TE,14,170
+91,8.7 S,RyaTannehill,QB,13,371
+92,8.8 S,ZacMoss,RB,7,152
+93,8.9 S,AntoniBrown,WR,9,184
+94,8.10 ,LaviskShenault,WR,7,194
+95,8.11 ,BrandiCooks,WR,10,206
+96,8.12 ,A.JDillon,RB,13,142
+97,9.1 S,JaleHurts,QB,14,393
+98,9.2 S,JameConner,RB,12,155
+99,9.3 S,RoberTonyan,TE,13,158
+10,9.4 S,KenyaDrake,RB,8,144
+10,9.5 S,DaviJohnson,RB,10,130
+10,9.6 S,TyleHigbee,TE,11,156
+10,9.7 S,JarviLandry,WR,13,185
+10,9.8 S,WilFuller,WR,14,194
+10,9.9 S,JayleWaddle,WR,14,171
+10,9.10 ,JoBurrow,QB,10,356
+10,9.11 ,DeviSingletary,RB,7,132
+10,9.12 ,CoreDavis,WR,6,193
+10,10.1 ,JamaaWilliams,RB,9,144
+11,10.2 ,MichaePittman,WR,14,163
+11,10.3 ,MikWilliams,WR,7,197
+11,10.4 ,CurtiSamuel,WR,9,178
+11,10.5 ,MichaeGallup,WR,7,184
+11,10.6 ,GuEdwards,RB,8,133
+11,10.7 ,IrSmith,TE,7,152
+11,10.8 ,DarnelMooney,WR,10,159
+11,10.9 ,MarquisBrown,WR,8,167
+11,10.10,TonPollard,RB,7,123
+11,10.11,MecolHardman,WR,12,163
+12,10.12,NyheiHines,RB,14,132
+12,11.1 ,MikGesicki,TE,14,150
+12,11.2 ,PittsburgSteelers,DEF,7,101
+12,11.3 ,MarviJones,WR,7,192
+12,11.4 ,LoAngeleRams,DEF,11,110
+12,11.5 ,MatRyan,QB,6,342
+12,11.6 ,J.DMcKissic,RB,9,119
+12,11.7 ,HenrRuggs,WR,8,158
+12,11.8 ,PhilliLindsay,RB,10,118
+12,11.9 ,TrevoLawrence,QB,7,344
+13,11.10,TreLance,QB,6,339
+13,11.11,RusselGage,WR,6,158
+13,11.12,TampBaBuccaneers,DEF,9,113
+13,12.1 ,JustiFields,QB,10,356
+13,12.2 ,WashingtoFootbalTeam,DEF,9,110
+13,12.3 ,AlexandeMattison,RB,7,103
+13,12.4 ,LataviuMurray,RB,6,95
+13,12.5 ,ElijaMoore,WR,6,151
+13,12.6 ,DeVantParker,WR,14,184
+13,12.7 ,BakeMayfield,QB,13,331
+14,12.8 ,BaltimorRavens,DEF,8,103
+14,12.9 ,HunteHenry,TE,14,138
+14,12.10,JonnSmith,TE,14,142
+14,12.11,EvaEngram,TE,10,147
+14,12.12,T.YHilton,WR,14,167
+14,13.1 ,RoGronkowski,TE,9,147
+14,13.2 ,JaleReagor,WR,14,147
+14,13.3 ,ColBeasley,WR,7,159
+14,13.4 ,RashaaPenny,RB,9,87
+14,13.5 ,GiovanBernard,RB,9,111
+15,13.6 ,BeRoethlisberger,QB,7,331
+15,13.7 ,KirCousins,QB,7,328
+15,13.8 ,JameWhite,RB,14,124
+15,13.9 ,TeviColeman,RB,6,105
+15,13.10,TuTagovailoa,QB,14,339
+15,13.11,SaFranciscers,DEF,6,104
+15,13.12,IndianapoliColts,DEF,14,103
+15,14.1 ,DereCarr,QB,8,338
+15,14.2 ,RondalMoore,WR,12,167
+15,14.3 ,ChubHubbard,RB,13,72
+16,14.4 ,JakobMeyers,WR,14,158
+16,14.5 ,DeshauWatson,QB,10,316
+16,14.6 ,SterlinShepard,WR,10,157
+16,14.7 ,AdaTrautman,TE,6,119
+16,14.8 ,BuffalBills,DEF,7,103
+16,14.9 ,ZacErtz,TE,14,131
+16,14.10,NeEnglanPatriots,DEF,14,100
+16,14.11,TerracMarshall,WR,13,156
+16,14.12,NelsoAgholor,WR,14,150
+16,15.1 ,DanieJones,QB,10,341
+17,15.2 ,KennetGainwell,RB,14,61
+17,15.3 ,AustiHooper,TE,13,132
+17,15.4 ,RyaFitzpatrick,QB,9,368
+17,15.5 ,RashoBateman,WR,8,123
+17,15.7 ,CarsoWentz,QB,14,330
+17,15.8 ,JareCook,TE,7,142
+17,15.9 ,GabrieDavis,WR,7,138
+17,15.10,Tre'QuaSmith,WR,6,147
+17,15.11,EmmanueSanders,WR,7,164
+17,15.12,RhamondrStevenson,RB,14,77
+18,16.1 ,GeralEverett,TE,9,122
+18,16.2 ,ColKmet,TE,10,124
+18,16.3 ,JameiWinston,QB,6,330
+18,16.4 ,MarqueCallaway,WR,6,155
+18,16.5 ,Amon-RStBrown,WR,9,132
+18,16.6 ,A.JGreen,WR,12,152
+18,16.7 ,ParriCampbell,WR,14,133
+18,16.8 ,ClevelanBrowns,DEF,13,101
+18,16.9 ,ZacWilson,QB,6,305
+18,16.10,JamisoCrowder,WR,6,133
+19,16.11,TariCohen,RB,10,83
+19,16.12,DevontaBooker,RB,10,69
+19,17.1 ,AnthonFirkser,TE,13,127
+19,17.2 ,SaDarnold,QB,13,328
+19,17.3 ,BryaEdwards,WR,8,138
+19,17.4 ,ChristiaKirk,WR,12,131
+19,17.5 ,NeOrleanSaints,DEF,6,103
+19,17.6 ,MiamDolphins,DEF,14,103
+19,17.7 ,DarreWilliams,RB,12,81
+19,17.8 ,MarloMack,RB,14,82
+20,17.9 ,BlakJarwin,TE,7,120
+20,17.10,DenveBroncos,DEF,11,102
+20,17.11,KansaCitChiefs,DEF,12,102
+20,17.12,EriEbron,TE,7,131
+20,18.1 ,JohBrown,WR,8,127
+20,18.2 ,JericMcKinnon,RB,12,63
+20,18.3 ,SammWatkins,WR,8,132
+20,18.4 ,TaysoHill,QB,6,145
+20,18.5 ,JareGoff,QB,9,300
+20,18.6 ,TyrelWilliams,WR,9,152
+21,18.8 ,RyaIzzo,TE,10,17
+21,18.9 ,BostoScott,RB,14,77
+21,18.11,CaNewton,QB,14,198
+21,18.12,AlleLazard,WR,13,99
+21,19.1 ,CharliWoerner,TE,6,11
+21,19.2 ,NicMullens,QB,14,13
+21,19.3 ,KadariuToney,WR,10,105
+21,19.4 ,DenzeMims,WR,6,93
+21,19.5 ,DarryntoEvans,RB,13,78
+21,19.6 ,MarqueValdes-Scantling,WR,13,110
+22,19.7 ,MalcolBrown,RB,14,101
+22,19.8 ,MarqisLee,WR,0,43
+22,19.9 ,BreshaPerriman,WR,9,139
+22,19.11,SonMichel,RB,11,150
+22,19.12,DaMilne,WR,9,23
+22,20.1 ,JavoWims,WR,10,14
+22,20.2 ,DaltoKeene,TE,14,27
+22,20.3 ,JefDriskel,QB,10,17
+22,20.4 ,HaydeHurst,TE,6,109
+22,20.5 ,GreeBaPackers,DEF,13,100
+23,20.7 ,IsaiaFord,WR,0,15
+23,20.8 ,MacHollins,WR,14,3
+23,20.9 ,ChicagBears,DEF,10,89
+23,20.10,MaJones,QB,14,159
+23,20.11,PennHart,WR,9,15
+23,20.12,DariuSlayton,WR,10,119
+23,21.1 ,SalvoAhmed,RB,14,75
+23,21.2 ,ArizonCardinals,DEF,12,97
+23,21.3 ,T.JYeldon,RB,0,3
+23,21.4 ,O.JHoward,TE,9,106
+24,21.5 ,JarretStidham,QB,14,5
+24,21.6 ,AleErickson,WR,10,18
+24,21.8 ,DauricFountain,WR,12,0
+24,21.10,VaJefferson,WR,11,123
+24,21.11,K.JHill,WR,7,9
+24,21.12,DeAndrCarter,WR,0,1
+24,22.1 ,JimmGaroppolo,QB,6,88
+24,22.3 ,MarviHall,WR,14,11
+24,22.4 ,LaquoTreadwell,WR,7,21
+24,22.5 ,NeYorGiants,DEF,10,98
+25,22.6 ,MarcuJohnson,WR,13,15
+25,22.7 ,DallaCowboys,DEF,7,91
+25,22.8 ,HarrisoButkerK,rK,12,157
+25,22.9 ,JessJames,TE,10,18
+25,22.10,JaviaHawkins,RB,13,12
+25,22.11,RyaGriffin,TE,6,25
+25,22.12,LoAngeleChargers,DEF,7,98
+25,23.1 ,SeattlSeahawks,DEF,9,99
+25,23.2 ,Ray-RaMcCloud,WR,7,20
+25,23.3 ,ChristiaBlake,WR,6,24
+26,23.4 ,ElijhaPenny,RB,10,3
+26,23.7 ,TyleBassK,sK,7,152
+26,23.8 ,JustiTuckerK,rK,8,168
+26,23.9 ,YounghoKooK,oK,6,158
+26,23.10,MatBarkley,QB,13,4
+26,23.11,DwaynWashington,RB,6,1
+26,23.12,PaFreiermuth,TE,7,56
+26,24.1 ,DontrelHilliard,RB,10,1
+26,24.3 ,JosAdams,RB,6,4
+26,24.5 ,KhaDareHodge,WR,13,13
+27,24.6 ,RandalCobb,WR,13,152
+27,24.7 ,KennStills,WR,0,47
+27,24.8 ,NicVannett,TE,6,21
+27,24.10,KeeSeaJohnson,WR,12,33
+27,24.12,ReggiBonnafon,RB,13,13
+27,25.1 ,RodrigBlankenshipK,pK,14,161
+27,25.2 ,MinnesotVikings,DEF,7,90
+27,25.4 ,BeDiNucci,QB,7,0
+27,25.6 ,MalcolPerry,WR,14,1
+27,25.7 ,JasoSandersK,sK,14,160
+28,25.8 ,DarOgunbowale,RB,7,29
+28,25.10,RileRidley,WR,10,7
+28,25.11,TrentoCannon,RB,13,3
+28,25.12,SaEhlinger,QB,14,15
+28,26.1 ,NoaBrown,WR,7,25
+28,26.2 ,RyaSuccopK,pK,9,152
+28,26.5 ,ChriHerndon,TE,6,74
+28,26.6 ,MarcedeLewis,TE,13,30
+28,26.7 ,GreZuerleinK,nK,7,162
+28,26.8 ,MaliTaylor,WR,13,12
+29,26.9 ,ChaHansen,WR,0,11
+29,26.10,BrandoPowell,WR,0,6
+29,26.11,JustiJackson,RB,7,92
+29,27.1 ,J.JArcega-Whiteside,WR,14,22
+29,27.2 ,DurhaSmythe,TE,14,26
+29,27.3 ,JosOliver,TE,8,20
+29,27.4 ,BryceHopkins,TE,11,20
+29,27.5 ,TrMcKitty,TE,7,15
+29,27.6 ,ZaJones,WR,8,21
+29,27.8 ,SimFehoko,WR,7,9
+30,27.9 ,KelviHarmon,WR,0,18
+30,27.10,GeofSwaim,TE,13,51
+30,27.11,DexteWilliams,RB,13,2
+30,28.1 ,AustiSeibertK,tK,10,79
+30,28.2 ,KadeSmith,TE,10,34
+30,28.3 ,TennesseTitans,DEF,13,92
+30,28.4 ,MycolPruitt,TE,6,6
+30,28.5 ,MatPraterK,rK,12,145
+30,28.6 ,DevinOzigbo,RB,7,10
+30,28.7 ,DanieCarlsonK,nK,8,145
+31,28.8 ,TeddBridgewater,QB,11,300
+31,28.10,TajaSharpe,WR,6,17
+31,28.11,CadJohnson,WR,9,0
+31,28.12,TyleHuntley,QB,8,6
+31,28.12,TrenSherfield,WR,6,45
+31,28.12,JuwaJohnson,WR,6,42
+31,28.12,GunneOlszewski,WR,14,13
+31,28.12,AlfreMorris,RB,0,5
+31,28.12,Lil'JordaHumphrey,WR,6,20
+31,28.12,JameProche,WR,8,3
+32,28.12,A.JMcCarron,QB,6,0
+32,28.12,JakKumerow,WR,7,16
+32,28.12,CarolinPanthers,DEF,13,90
+32,28.12,PharaoBrown,TE,10,46
+32,28.12,DevontFreeman,RB,6,38
+32,28.12,MohameSanu,WR,6,66
+32,28.12,WiLutzK,zK,6,99
+32,28.12,OlabisJohnson,WR,7,0
+32,28.12,JayleSamuels,RB,7,21
+32,28.12,MikGlennon,QB,10,9
+33,28.12,DawsoKnox,TE,7,100
+33,28.12,PhiladelphiEagles,DEF,14,90
+33,28.12,P.JWalker,QB,13,13
+33,28.12,GarretGilbert,QB,7,8
+33,28.12,AmeeAbdullah,RB,7,17
+33,28.12,ChriHogan,WR,6,15
+33,28.12,JacoEason,QB,14,42
+33,28.12,JasoMyersK,sK,9,150
+33,28.12,BennSnell,RB,7,35
+33,28.12,MatGayK,yK,11,146
+34,28.12,JosReynolds,WR,13,89
+34,28.12,KahalWarring,TE,14,17
+34,28.12,JoshuKelley,RB,7,58
+34,28.12,SamajPerine,RB,10,57
+34,28.12,MikStrachan,WR,14,51
+34,28.12,DannAmendola,WR,0,63
+34,28.12,HunteBryant,TE,0,24
+34,28.12,K.JOsborn,WR,7,28
+34,28.12,JosiaDeguara,TE,13,10
+34,28.12,RobbiGouldK,dK,6,149
+35,28.12,DaltoSchultz,TE,7,83
+35,28.12,MasoCrosbyK,yK,13,144
+35,28.12,WaynGallman,RB,6,52
+35,28.12,QueWatkins,WR,14,96
+35,28.12,MarIngram,RB,10,68
+35,28.12,MasoRudolph,QB,7,16
+35,28.12,BraxtoBerrios,WR,6,15
+35,28.12,La'MicaPerine,RB,6,38
+35,28.12,ChaBeebe,WR,7,25
+35,28.12,DreLock,QB,11,81
+36,28.12,DazNewsome,WR,10,16
+36,28.12,NeYorJets,DEF,6,83
+36,28.12,JohHightower,WR,14,17
+36,28.12,RodneSmith,RB,13,11
+36,28.12,JacksonvillJaguars,DEF,7,77
+36,28.12,CoreClement,RB,10,16
