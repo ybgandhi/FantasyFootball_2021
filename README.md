@@ -4,6 +4,7 @@ To prepare for the 2021 Fantasy Football draft, research and rankings of NFL pla
 
 * Raw Data Sources *
     * Fantasy Pros
+    * Draft Sharks
 
 * Python Libraries *
     * pandas
@@ -16,7 +17,7 @@ To prepare for the 2021 Fantasy Football draft, research and rankings of NFL pla
     * tight ends
     * wide receivers
 
-## Data Manipulation
+## ETL
 split raw file based on player positions
 * reorder data frame to show: *
     * rank
@@ -24,6 +25,8 @@ split raw file based on player positions
     * strength of schedule
     * team
     * bye week
+
+
 
 
 
