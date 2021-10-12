@@ -1,20 +1,39 @@
 // use this file to manipulate json data
 
-// define SVG area dimension
-var svgWidth = 960;
-var svgHeight = 500;
+// chart
+var addChart = function(x_data, y_data, hoverText, metadata) {
+    var metadata_panel = d3.select("chart");
+    metadata_panel.html("");
+    Object.entries(metadata).forEach(([key, value])=>{
+        metadata_panel.append("p").text(`${key}: ${value}`);
+    });
+
+    var trace = {
+        x: x_data,
+        y: y_data,
+        text: hoverText,
+        type: 'bar',
+        orientation: 'h'
+    };
+    
+    var data = [trace];
+
+    Plotly.newPlot('bar', data);
+
+    var trace2 = {
+        x: x_data,
+        y: y_data,
+        text: hoverText,
+        mode: 'markers',
+        marker: {
+            size: y_data,
+            color: x_data
+        }
+    };
+
+    var data2 = [trace2];
+
+    Plotly.newPlot('bubble', data2);
 
 
-// Define the chart's margins as an object
-var chartMargin = {
-    top: 20,
-    right: 40,
-    bottom: 80,
-    left: 100
 };
-
-// Define dimensions of the chart area
-var chartWidth = svgWidth - chartMargin.left - chartMargin.right;
-var chartHeight = svgHeight - chartMargin.top - chartMargin.bottom;
-var chart = d3.select("chart").append("div").classed("chart", true);
-
