@@ -16,4 +16,5 @@ var chartMargin = {
 // Define dimensions of the chart area
 var chartWidth = svgWidth - chartMargin.left - chartMargin.right;
 var chartHeight = svgHeight - chartMargin.top - chartMargin.bottom;
-var chart = d3.select("scatter").append("div").classed("chart", true);
+var chart = d3.select("chart").append("div").classed("chart", true);
+
