@@ -1,5 +1,9 @@
 // use this file to manipulate json data
 
+d3.json("/outputs/test2.json", function(data){
+    console.log(data)
+})
+
 // chart
 var addChart = function(x_data, y_data, hoverText, metadata) {
     var metadata_panel = d3.select("chart");
