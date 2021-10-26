@@ -1,8 +1,8 @@
 // use this file to manipulate json data
 
-d3.json("/outputs/test2.json", function(data){
-    console.log(data)
-})
+d3.json("/outputs/test2.json").then(function(data){
+    console.log(data);
+});
 
 // chart
 var addChart = function(x_data, y_data, hoverText, metadata) {
