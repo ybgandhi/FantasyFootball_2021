@@ -1,14 +1,15 @@
 // use this file to manipulate json data
-fetch("./outputs/test2.json")
-    .then(response => {
-        return response.json();
-    })
-    .then(data => console.log(data));
+
+const path = "./outputs/test2.json";
 
 
-// d3.json("./outputs/test2.json").then(function(data){
-//     console.log(data);
-// });
+d3.json(path).then(function(data){
+    console.log(data);
+});
+
+// const dataPromise = d3.json(path);
+// console.log("Data Promise: ", dataPromise);
+
 
 // chart
 // var addChart = function(x_data, y_data, hoverText, metadata) {
