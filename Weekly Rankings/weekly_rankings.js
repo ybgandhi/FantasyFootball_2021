@@ -1,23 +1,24 @@
 // use this file to manipulate json data
 
-var url = "https://github.com/ybgandhi/FantasyFootball_2021/blob/31b5e9a9aa4a054559ff95878646e4387b4face1/Weekly%20Rankings/outputs/test2.json";
-d3.json(url).then( function (d){
-    console.log(d);
-})
-
 
 
 
 // JSON Data Path
-// const path = "./outputs/test2.json";
+const path = "./outputs/test2.json";
 
-// // load table into console log
-// d3.json(path).then(function(data){
-//     console.log(data);
+// load table into console log
+d3.json(path).then(function(data){
+     console.log(data);
+
+     var playerNames = {}
+
+     for (var i=0;i<data.length;i++) {
+        playerNames[d[i].Name=d[i].Name]
+     };
+     console.log(playerNames);
 //     var my_JSON_object = JSON.parse(data.Name);
 //     alert (my_JSON_object[0]);
-// });
-
+});
 
 // d3.open("GET",path, false);
 // d3.send(null)
@@ -67,6 +68,3 @@ d3.json(url).then( function (d){
 //     var data2 = [trace2];
 
 //     Plotly.newPlot('bubble', data2);
-
-
-// };
