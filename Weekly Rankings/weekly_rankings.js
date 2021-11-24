@@ -19,7 +19,6 @@ d3.json(path).then(function(data){
 //     var my_JSON_object = JSON.parse(data.Name);
 //     alert (my_JSON_object[0]);
 });
-
 // d3.open("GET",path, false);
 // d3.send(null)
 // var my_JSON_object = JSON.parse(request.responseText);
