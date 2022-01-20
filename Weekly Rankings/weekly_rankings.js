@@ -7,15 +7,19 @@
 const path = "./outputs/test2.json";
 
 // load table into console log
-d3.json(path).then(function(data){
-     console.log(data);
+d3.json(path).then(function(week){
+     console.log(week);
+     console.log(Object.keys(week));
+     console.log(Object.values(week));
+     console.log(Object.entries(week));
 
-     var playerNames = {}
+     var Weeks = {}
 
-     for (var i=0;i<data.length;i++) {
-        playerNames[d[i].Name=d[i].Name]
+     for (var i=0;i<week.length;i++) {
+        Weeks[d[i].Team=d[i].Team]
+        console.log(Weeks[i].Team);
      };
-     console.log(playerNames);
+    // console.log(playerNames);
 //     var my_JSON_object = JSON.parse(data.Name);
 //     alert (my_JSON_object[0]);
 });
