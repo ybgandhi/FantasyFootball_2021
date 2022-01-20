@@ -12,12 +12,12 @@ d3.json(path).then(function(week){
      console.log(Object.keys(week));
      console.log(Object.values(week));
      console.log(Object.entries(week));
-
+     console.log(Object.values(week[1].Name));
      var Weeks = {}
 
      for (var i=0;i<week.length;i++) {
         Weeks[d[i].Team=d[i].Team]
-        console.log(Weeks[i].Team);
+        console.log(Weeks[d[i].Team])
      };
     // console.log(playerNames);
 //     var my_JSON_object = JSON.parse(data.Name);
